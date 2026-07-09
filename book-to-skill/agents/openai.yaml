@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book to Skill"
+  short_description: "把一本书的方法沉淀成可复用的专业 Codex Skill"
+  default_prompt: "Use $book-to-skill to turn a book into a reusable Codex skill for solving a specific problem."
